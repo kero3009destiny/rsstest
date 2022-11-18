@@ -2,18 +2,13 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>EMİR GEÇİR</title>
+  <link>https://www.emirgecir.com.tr</link>
+  <description>the real dirt3009</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>Test Item</title>
+    <link>https://c.emirgecir.com.tr</link>
+    <description><h1>html tag</h1></description>
   </item>
 </channel>
 
